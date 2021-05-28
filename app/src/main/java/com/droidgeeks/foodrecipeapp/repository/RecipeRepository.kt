@@ -1,4 +1,4 @@
-package com.codingwithmitch.mvvmrecipeapp.repository
+package com.droidgeeks.foodrecipeapp.repository
 
 import com.droidgeeks.foodrecipeapp.domain.model.Recipe
 

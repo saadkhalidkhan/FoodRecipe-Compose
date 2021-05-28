@@ -8,7 +8,7 @@ import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.codingwithmitch.mvvmrecipeapp.repository.RecipeRepository
+import com.droidgeeks.foodrecipeapp.repository.RecipeRepository
 import com.droidgeeks.foodrecipeapp.domain.model.Recipe
 import com.droidgeeks.foodrecipeapp.presentation.ui.recipe_list.RecipeListEvent.*
 import com.droidgeeks.foodrecipeapp.util.TAG
