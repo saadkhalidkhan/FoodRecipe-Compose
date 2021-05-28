@@ -1,6 +1,6 @@
 # FoodRecipe-Compose
 
-This is a Food Recipe App which I developed for learning by #CodingwithMitch.
+This is a Food Recipe App which I developed for learning by #CodingwithMitch. This App is in progress.
 
 Tools and Libraries used in this project:
 
